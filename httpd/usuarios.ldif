@@ -1,0 +1,10 @@
+dn: cn=bueno5,dc=buenoDaw,dc=org
+cn: bueno5
+homedirectory: /home/users/bueno5
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: bueno5
+uid: bueno5
+uidnumber: 1002
+userpassword: {MD5}rje4V3n4Z2XQ+KiKt1kUkg==
