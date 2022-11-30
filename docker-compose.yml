@@ -39,7 +39,7 @@ services:
       - /var/lib/ldap
       - /etc/ldap/slapd.d
       - /container/service/slapd/assets/certs/
-      - ./httpd/:/home/httpd/
+      
     ports:
       - "389:389"
       - "636:636"
